@@ -18,8 +18,8 @@
   },
   "homepage": "https://github.com/Azure/aci-deploy-action#readme",
   "dependencies": {
-    "@actions/core": "^1.2.2",
-    "@azure/arm-containerinstance": "^5.4.0",
+    "@actions/core": "^1.11.1",
+    "@azure/arm-containerinstance": "^9.1.0",
     "@types/q": "^1.5.2",
     "azure-actions-webclient": "^1.0.10"
   },
